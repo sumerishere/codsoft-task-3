@@ -1,3 +1,16 @@
+// Students management system using core java with console based interface
+// output format :
+// Student Management System
+// 1. Add Student
+// 2. Remove Student
+// 3. Search Student
+// 4. Display All Students
+// 5. Exit
+// Enter your choice: 1
+// Enter student name: Alice
+// Enter roll number: 101
+// Enter grade: A
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
